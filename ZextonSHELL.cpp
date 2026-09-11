@@ -25,7 +25,6 @@ int main() {
     std::system("clear");
     std::cout << "[SYSTEM PROCESS] - booting ZextonOS" << std::endl;
     std::this_thread::sleep_for(std::chrono::seconds(6));
-    std::system("clear");
     std::cout << "welcome to ZextonOS" << std::endl;
     std::this_thread::sleep_for(std::chrono::seconds(3));
     std::system("clear");
